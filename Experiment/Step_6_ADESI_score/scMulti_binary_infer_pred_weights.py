@@ -63,7 +63,7 @@ def infer(code_loc,raw_data_loc,vocab_loc, model_ckpt,vocab_params, out_loc,labe
 
     #-----> pytorch lightning paras
     trainer_para.trainer_output_dir = str(Path(model_ckpt).parent)+"/" 
-    trainer_para.wandb_api_key = "1266ad70f8bf7695542bf9a2d0dec8748c52431c"
+    trainer_para.wandb_api_key = "YOUR WANDB KEY"
 
 
     #-----> scBERT model paras
