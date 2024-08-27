@@ -6,7 +6,7 @@ EMT-LM is a large language model that can classify epithelial-mesenchymal transi
 
 ## Preprint
 
-The preprint presenting this tool **Classifying epithelial-mesenchymal transition (EMT) states in single cell cancer data using large language models** will be available on [biorXiv](https://www.biorxiv.org/content/10.1101/2024.08.16.608311v1).
+The preprint presenting this tool **Classifying epithelial-mesenchymal transition (EMT) states in single cell cancer data using large language models** now available on [biorXiv](https://www.biorxiv.org/content/10.1101/2024.08.16.608311v1).
 
 ## Usage
 
