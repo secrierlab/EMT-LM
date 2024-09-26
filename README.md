@@ -1,10 +1,10 @@
 # EMT-LM
 
-![EMT-LM pipeline](https://github.com/secrierlab/EMT-LM/blob/main/EMTLM-fig.png)
-
 ### Author: Shi Pan, UCL Genetics Institute
 
 EMT-LM is a large language model that can classify epithelial-mesenchymal transition (EMT) states in single cell RNA-seq data.
+
+![EMT-LM pipeline](https://github.com/secrierlab/EMT-LM/blob/main/EMTLM-fig.png)
 
 ### Preprint
 Epithelial–mesenchymal plasticity plays a significant role in various biological processes including tumour progression and chemoresistance. However, the expression programmes underlying the epithelial–mesenchymal transition (EMT) in cancer are diverse, and accurately defining the EMT status of tumour cells remains a challenging task. In this study, we employed a pre-trained single-cell large language model (LLM) to develop an EMT-language model (EMT-LM) that allows us to capture discrete states within the EMT continuum in single cell cancer data. In capturing EMT states, we achieved an average Area Under the Receiver Operating Characteristic curve (AUROC) of 90% across multiple cancer types. We propose a new metric, ADESI, to aid the biological interpretability of our model, and derive EMT signatures liked with energy metabolism and motility reprogramming underlying these state switches. We further employ our model to explore the emergence of EMT states in spatial transcriptomics data, uncovering hybrid EMT niches with contrasting potential for antitumour immunity or immune evasion. Our study provides a proof of concept that LLMs can be applied to characterise cell states in single cell data, and proposes a generalisable framework to predict EMT in single cell RNA-seq that can be adapted and expanded to characterise other cellular states.
