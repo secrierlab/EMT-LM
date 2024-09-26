@@ -135,6 +135,9 @@ class scReader:
             new.var_names = gene_name
             new.obs = obs
             new.obs_names = self.adata.obs_names
+            for key in self.adata.obs.keys():
+                if key not in new.obs.keys():
+                    new.obs[key] = self.adata.obs[key]
             logger.debug(f"restore anndata in scLLM format..")
             self.adata = new
             logger.info(f"Done.")

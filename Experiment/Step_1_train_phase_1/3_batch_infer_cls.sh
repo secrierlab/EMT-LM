@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define paths and parameters
-CODE_LOC="/home/shi/WorkSpace/projects/scMultiNet_workspace/" # path to repo end/with/scMultiNet_project/
-DATA_LOC="/home/shi/WorkSpace/projects/scMultiNet_Data/" # path to data folder
+CODE_LOC="/Path/to/repo/" # path to repo end/with/scMultiNet_project/
+DATA_LOC="/Path/to/Data/folder/you/created/" # path to data folder
 RAW_DATA_LOC1=${DATA_LOC}"/Step_1_data/Dataset_Cenk_Q/TrVal_dataset_QuiescenceStatus.pkl" #/home/shi/WorkSpace/projects/scMultiNet_Data/Step_1_data/Dataset_all_counts_inhibitor/TrVal_dataset_Ground_Truth.pkl
 
 echo "RAW_DATA_LOC1: " $RAW_DATA_LOC1
