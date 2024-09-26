@@ -1,6 +1,6 @@
 # EMT-LM
 
-![HistoMIL](https://github.com/secrierlab/EMT-LM/EMTLM-fig.png)
+![EMT-LM pipeline](https://github.com/secrierlab/EMT-LM/EMTLM-fig.png)
 
 ### Author: Shi Pan, UCL Genetics Institute
 
