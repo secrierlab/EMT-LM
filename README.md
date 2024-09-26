@@ -1,5 +1,7 @@
 # EMT-LM
 
+![HistoMIL](https://github.com/secrierlab/EMT-LM/EMTLM-fig.png)
+
 ### Author: Shi Pan, UCL Genetics Institute
 
 EMT-LM is a large language model that can classify epithelial-mesenchymal transition (EMT) states in single cell RNA-seq data.
